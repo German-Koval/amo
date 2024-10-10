@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/amo/static/css/main.64d1f585.css",
+    "main.js": "/amo/static/js/main.8fb1867e.js",
+    "index.html": "/amo/index.html",
+    "main.64d1f585.css.map": "/amo/static/css/main.64d1f585.css.map",
+    "main.8fb1867e.js.map": "/amo/static/js/main.8fb1867e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d1f585.css",
+    "static/js/main.8fb1867e.js"
+  ]
+}
