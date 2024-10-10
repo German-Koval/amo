@@ -1,0 +1,41 @@
+.lead-item {
+    background-color: #95A3B3;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 30px;
+    border-radius: 15px;
+    margin-top: 10px;
+    list-style: none;
+    text-align: center;
+    cursor: pointer;
+ 
+  }
+  .active {
+    height: 60px;
+    background-color: #ABFAA9;
+  }
+  .lead-subitems {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+  }
+  .lead-subitem {
+    text-align: center;
+    width: 33%;
+    margin-bottom: 10px;
+  }
+
+
+  .more-info{
+    display: none;
+  }
+ .status{
+    display: flex;
+ }
+ .list-title{
+ width: 90%;
+ }
